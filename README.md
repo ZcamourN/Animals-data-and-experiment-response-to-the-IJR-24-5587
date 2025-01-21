@@ -1,0 +1,1 @@
+This is experimental data related to Step-coated FBG and Runway-shaped Beam 6-D F/T Sensor with Dynamic Self-fault-tolerant for Orthopedic Surgery Robot (IJR-24-5587). We hope that these data will help you to further analyze your experiments and reduce the use of animals for subsequent experiments.
